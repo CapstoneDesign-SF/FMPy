@@ -15,6 +15,7 @@
 # source archives
 *.tar.gz
 *.zip
+resources/
 
 # compiled files
 *.py[cod]
